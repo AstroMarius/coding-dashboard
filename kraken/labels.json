@@ -1,0 +1,15 @@
+[
+  {"name": "bug", "color": "d73a4a", "description": "Bug che richiede correzione"},
+  {"name": "enhancement", "color": "a2eeef", "description": "Nuova funzionalità o miglioramento"},
+  {"name": "documentation", "color": "0075ca", "description": "Aggiornamenti alla documentazione"},
+  {"name": "good first issue", "color": "7057ff", "description": "Problema adatto ai nuovi contributori"},
+  {"name": "help wanted", "color": "008672", "description": "Serve aiuto esterno"},
+  {"name": "performance", "color": "fbca04", "description": "Problemi di performance"},
+  {"name": "security", "color": "b60205", "description": "Questioni di sicurezza"},
+  {"name": "dependencies", "color": "0366d6", "description": "Aggiornamenti dipendenze"},
+  {"name": "priority: high", "color": "e11d21", "description": "Alta priorità"},
+  {"name": "priority: medium", "color": "f9d0c4", "description": "Priorità media"},
+  {"name": "priority: low", "color": "c2e0c6", "description": "Bassa priorità"},
+  {"name": "type: task", "color": "0e8a16", "description": "Attività di sviluppo"},
+  {"name": "type: research", "color": "5319e7", "description": "Ricerca e spike"}
+]

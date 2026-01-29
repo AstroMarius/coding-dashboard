@@ -24,3 +24,5 @@ Istruzioni rapide
 Prossimi passi suggeriti
 - Decidere stack (framework frontend/backend)
 - Creare issue per ogni attività sopra elencata
+ - Importare le `labels` con lo script `scripts/create_labels.sh`
+ - Usare i template in `.github/ISSUE_TEMPLATE/` per aprire nuove issue

@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Create venv",
+      "type": "shell",
+      "command": "python3 -m venv .venv",
+      "presentation": { "reveal": "always" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Install requirements",
+      "type": "shell",
+      "command": "bash",
+      "args": ["-lc", "pip install -r requirements.txt || true"],
+      "presentation": { "reveal": "always" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Run current Python file",
+      "type": "shell",
+      "command": "python3",
+      "args": ["${file}"],
+      "presentation": { "reveal": "always" },
+      "problemMatcher": []
+    }
+  ]
+}
